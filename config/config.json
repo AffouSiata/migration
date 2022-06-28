@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Affou",
+    "password": "12345",
+    "database": "projet_migration",
+    "host": "192.168.64.2",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "Affou",
+    "password": "12345",
+    "database": "projet_migration",
+    "host": "192.168.64.2",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "Affou",
+    "password": "12345",
+    "database": "projet_migration",
+    "host": "192.168.64.2",
+    "dialect": "mysql"
+  }
+}
